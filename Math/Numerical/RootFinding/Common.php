@@ -191,10 +191,6 @@ class Math_Numerical_RootFinding_Common
      *
      * @abstract()
      */
-    function compute()
-    {
-        return PEAR::raiseError('This function not implemented');
-    }
 
     // }}}
     // {{{ getRoot()
